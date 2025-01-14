@@ -1,0 +1,283 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone A1",
+      "price": 699,
+      "sizes": ["Small", "Medium"],
+      "colors": ["Black", "Silver"],
+      "weight": 0.2,
+      "dimensions": {
+        "length": 15.1,
+        "width": 7.2,
+        "height": 0.8
+      },
+      "image": "https://example.com/images/smartphone_a1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro 15",
+      "price": 1499,
+      "sizes": ["15-inch"],
+      "colors": ["Gray", "Silver"],
+      "weight": 1.8,
+      "dimensions": {
+        "length": 35.7,
+        "width": 24.1,
+        "height": 1.8
+      },
+      "image": "https://example.com/images/laptop_pro_15.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bluetooth Headphones X",
+      "price": 199,
+      "sizes": ["Adjustable"],
+      "colors": ["Black", "Blue", "Red"],
+      "weight": 0.25,
+      "dimensions": {
+        "length": 19.5,
+        "width": 16.5,
+        "height": 5.0
+      },
+      "image": "https://example.com/images/headphones_x.jpg"
+    },
+    {
+      "id": 4,
+      "name": "4K Smart TV 55",
+      "price": 799,
+      "sizes": ["55-inch"],
+      "colors": ["Black"],
+      "weight": 14.5,
+      "dimensions": {
+        "length": 123.9,
+        "width": 71.4,
+        "height": 7.6
+      },
+      "image": "https://example.com/images/smart_tv_55.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Gaming Mouse Ultra",
+      "price": 49,
+      "sizes": ["One Size"],
+      "colors": ["Black", "White"],
+      "weight": 0.1,
+      "dimensions": {
+        "length": 12.5,
+        "width": 7.6,
+        "height": 3.8
+      },
+      "image": "https://example.com/images/gaming_mouse_ultra.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Wireless Keyboard Slim",
+      "price": 89,
+      "sizes": ["Full-Size"],
+      "colors": ["White", "Black"],
+      "weight": 0.8,
+      "dimensions": {
+        "length": 43.2,
+        "width": 12.3,
+        "height": 2.1
+      },
+      "image": "https://example.com/images/wireless_keyboard_slim.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Smartwatch Z1",
+      "price": 249,
+      "sizes": ["Small", "Large"],
+      "colors": ["Black", "Gold", "Pink"],
+      "weight": 0.05,
+      "dimensions": {
+        "length": 4.4,
+        "width": 4.4,
+        "height": 1.1
+      },
+      "image": "https://example.com/images/smartwatch_z1.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Tablet Plus 10",
+      "price": 399,
+      "sizes": ["10-inch"],
+      "colors": ["Gray", "Silver"],
+      "weight": 0.5,
+      "dimensions": {
+        "length": 24.6,
+        "width": 17.2,
+        "height": 0.8
+      },
+      "image": "https://example.com/images/tablet_plus_10.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Portable Speaker Mini",
+      "price": 59,
+      "sizes": ["Compact"],
+      "colors": ["Red", "Blue", "Black"],
+      "weight": 0.4,
+      "dimensions": {
+        "length": 10.2,
+        "width": 10.2,
+        "height": 4.8
+      },
+      "image": "https://example.com/images/portable_speaker_mini.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Digital Camera Pro",
+      "price": 999,
+      "sizes": ["Standard"],
+      "colors": ["Black", "Silver"],
+      "weight": 0.85,
+      "dimensions": {
+        "length": 13.5,
+        "width": 9.0,
+        "height": 7.5
+      },
+      "image": "https://example.com/images/digital_camera_pro.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Smart Home Hub",
+      "price": 149,
+      "sizes": ["One Size"],
+      "colors": ["White", "Black"],
+      "weight": 0.45,
+      "dimensions": {
+        "length": 10.5,
+        "width": 10.5,
+        "height": 2.5
+      },
+      "image": "https://example.com/images/smart_home_hub.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Action Camera 4K",
+      "price": 299,
+      "sizes": ["Compact"],
+      "colors": ["Black", "Blue"],
+      "weight": 0.1,
+      "dimensions": {
+        "length": 6.2,
+        "width": 4.1,
+        "height": 3.0
+      },
+      "image": "https://example.com/images/action_camera_4k.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Gaming Headset Vortex",
+      "price": 129,
+      "sizes": ["Adjustable"],
+      "colors": ["Black", "Red"],
+      "weight": 0.35,
+      "dimensions": {
+        "length": 20.0,
+        "width": 18.0,
+        "height": 8.0
+      },
+      "image": "https://example.com/images/gaming_headset_vortex.jpg"
+    },
+    {
+      "id": 14,
+      "name": "USB-C Docking Station",
+      "price": 99,
+      "sizes": ["One Size"],
+      "colors": ["Silver", "Black"],
+      "weight": 0.2,
+      "dimensions": {
+        "length": 15.0,
+        "width": 8.0,
+        "height": 2.5
+      },
+      "image": "https://example.com/images/usb_c_docking_station.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Electric Scooter X2",
+      "price": 499,
+      "sizes": ["Standard"],
+      "colors": ["Black", "Red"],
+      "weight": 12.5,
+      "dimensions": {
+        "length": 108.0,
+        "width": 43.0,
+        "height": 120.0
+      },
+      "image": "https://example.com/images/electric_scooter_x2.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Wireless Earbuds 5.0",
+      "price": 89,
+      "sizes": ["One Size"],
+      "colors": ["White", "Black"],
+      "weight": 0.05,
+      "dimensions": {
+        "length": 5.0,
+        "width": 5.0,
+        "height": 2.5
+      },
+      "image": "https://example.com/images/wireless_earbuds_5.jpg"
+    },
+    {
+      "id": 17,
+      "name": "VR Headset Advanced",
+      "price": 399,
+      "sizes": ["One Size"],
+      "colors": ["Black", "White"],
+      "weight": 0.6,
+      "dimensions": {
+        "length": 20.0,
+        "width": 10.0,
+        "height": 12.0
+      },
+      "image": "https://example.com/images/vr_headset_advanced.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Robot Vacuum Cleaner",
+      "price": 249,
+      "sizes": ["One Size"],
+      "colors": ["White", "Black"],
+      "weight": 3.0,
+      "dimensions": {
+        "length": 32.0,
+        "width": 32.0,
+        "height": 8.0
+      },
+      "image": "https://example.com/images/robot_vacuum_cleaner.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Smart Doorbell Cam",
+      "price": 149,
+      "sizes": ["One Size"],
+      "colors": ["Black", "Silver"],
+      "weight": 0.4,
+      "dimensions": {
+        "length": 12.0,
+        "width": 6.0,
+        "height": 3.0
+      },
+      "image": "https://example.com/images/smart_doorbell_cam.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Electric Kettle Pro",
+      "price": 59,
+      "sizes": ["1.5L"],
+      "colors": ["Silver", "Black"],
+      "weight": 1.2,
+      "dimensions": {
+        "length": 20.0,
+        "width": 15.0,
+        "height": 22.0
+      },
+      "image": "https://example.com/images/electric_kettle_pro.jpg"
+    }
+  ]
+  
